@@ -1,0 +1,6 @@
+c:\users\tommy\documents\visual studio 2017\Projects\Car\bin\Debug\Car.exe.config
+c:\users\tommy\documents\visual studio 2017\Projects\Car\bin\Debug\Car.exe
+c:\users\tommy\documents\visual studio 2017\Projects\Car\bin\Debug\Car.pdb
+c:\users\tommy\documents\visual studio 2017\Projects\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+c:\users\tommy\documents\visual studio 2017\Projects\Car\obj\Debug\Car.exe
+c:\users\tommy\documents\visual studio 2017\Projects\Car\obj\Debug\Car.pdb
